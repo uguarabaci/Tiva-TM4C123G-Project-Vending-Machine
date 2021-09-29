@@ -1,23 +1,23 @@
-##EN AZ SAYIDA BOZUK PARA VERME PROBLEMİ
+## EN AZ SAYIDA BOZUK PARA VERME PROBLEMİ
 
 Bu readme.txt dosyası, En az sayıda bozuk para verme projesine aittir.
 Bu paket, kaynak kodu ile beraber bulunmaktadır.
 
 
-##PAKETİN İÇERİĞİ:
+## PAKETİN İÇERİĞİ:
 
 Projenin kaynak kodu.
 readme.txt - Bu dosya.
 
 
 
-##SİSTEM GEREKSİNİMLERİ:
+## SİSTEM GEREKSİNİMLERİ:
 
-###Energia(ide)   - https://energia.nu/download/
-###Tiva C geliştirme kartını bilgisayara kurmak için: https://www.youtube.com/watch?v=q6UjsPBL_54&t=1s
+### Energia(ide)   - https://energia.nu/download/
+### Tiva C geliştirme kartını bilgisayara kurmak için: https://www.youtube.com/watch?v=q6UjsPBL_54&t=1s
 
 
-##PROGRAMIN HAKKINDA
+## PROGRAMIN HAKKINDA
 
 Bu proje, kullanıcıdan keypad yardımı ile para girişinin alınmasıyla başlar. 25 kuruş için “1” tuşuna, 50 kuruş için “2” tuşuna, 1 lira için “3” tuşuna basılması beklenir.
 “0” tuşuna basıldığında para ekleme işlemi biter. LCD ekranda cüzdan miktarı yazar.“*” para işlemini resetler(* komutu program boyunca kullanıcının kullabileceği bir komuttur,
